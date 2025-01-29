@@ -1,4 +1,4 @@
-The most "real" implementation is the multiprocessing one.
-I also reported the a simplest versione just use multithreading only for educational purpose.
-(tbh also the mutiproccesing version is a toy-case developed to show how is possible to simulate a mutex on distirbuted system).
-More info are in the specific readme in the multiprocessing/multithreading folders
+The most accurate implementation is the **multiprocessing** version. Additionally, a **simpler multithreading version** is provided purely for educational purposes. 
+(To be honest, even the multiprocessing version is a toy example, designed to demonstrate how a mutex can be simulated in a distributed system.)  
+
+For more details, refer to the specific **README** files in the **multiprocessing** and **multithreading** folders.
