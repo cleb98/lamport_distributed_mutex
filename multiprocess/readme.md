@@ -130,6 +130,7 @@ All nodes maintain their own `request_queue` and process requests based on their
    - Nodes stop when they have received `SHUTDOWN` messages from all other nodes.
   
 ### Simulation Results
+(more detailed results discussion is available in "Lamport mutual exclusion.pdf")
 
 ```
 --- Final Results ---
